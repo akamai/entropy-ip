@@ -3,9 +3,9 @@ the software entitled "Entropy/IP" (i.e. the Work, as defined below).
 
  1. Definitions.
 
-    "License" shall mean the terms and conditions for use,
-    reproduction, and distribution as defined by Sections 1 through
-    10 of this document.
+    "License" (or "LICENSE") shall mean the terms and conditions
+    for use, reproduction, and distribution as defined by Sections
+    1 through 10 of this document.
 
     "Licensor" shall mean the copyright owner or entity authorized
     by the copyright owner that is granting the License.
@@ -19,8 +19,8 @@ the software entitled "Entropy/IP" (i.e. the Work, as defined below).
     (50%) or more of the outstanding shares, or (iii) beneficial
     ownership of such entity.
 
-    "You" (or "Your") shall mean an individual or Legal Entity
-    exercising permissions granted by this License.
+    "You" ("YOU," or "Your") shall mean an individual or Legal
+    Entity exercising permissions granted by this License.
 
     "Source" form shall mean the preferred form for making
     modifications, including but not limited to software source code,
@@ -31,9 +31,10 @@ the software entitled "Entropy/IP" (i.e. the Work, as defined below).
     not limited to compiled object code, generated documentation,
     and conversions to other media types.
 
-    "Work" shall mean the work of authorship, whether in Source or
-    Object form, made available under the License, as indicated by
-    a copyright notice that is included in or attached to the work.
+    "Work" (or "WORK") shall mean the work of authorship, whether
+    in Source or Object form, made available under the License, as
+    indicated by a copyright notice that is included in or attached
+    to the work.
 
     "Derivative Works" shall mean any work, whether in Source or
     Object form, that is based on (or derived from) the Work and
@@ -81,25 +82,25 @@ the software entitled "Entropy/IP" (i.e. the Work, as defined below).
     patent claims licensable by such Contributor that are necessarily
     infringed by their Contribution(s) alone or by combination of
     their Contribution(s) with the Work to which such Contribution(s)
-    was submitted. The patent license(s) granted hereunder shall
-    not confer upon You the right to practice any implicated patent
-    claims in connection with (i) commercial products, services,
-    or software; (ii) research that either is commercial in nature
-    or conducted to support back-end commercial operations, or will
-    trigger obligations to provide deliverables to for- profit
-    entities that have supported the research; or (iii) software
-    licensed from another party under a license commonly referred to
-    as an open source, free software, copyleft, or community source
-    code license. This License shall automatically terminate in the
-    event that You practice the licensed patent claims in connection
-    with any items detailed above in 3(i)-(iii). Additionally,
-    if You institute patent or copyright litigation against any
-    entity (including a cross-claim or counterclaim in a lawsuit)
-    alleging that the Work or a Contribution incorporated within
-    the Work constitutes direct or contributory patent or copyright
-    infringement, then the patent and copyright licenses granted
-    to You under this License for that Work shall terminate as of
-    the date such litigation is filed.
+    was submitted. THE PATENT LICENSE(S) GRANTED HEREUNDER SHALL
+    NOT CONFER UPON YOU THE RIGHT TO PRACTICE ANY IMPLICATED PATENT
+    CLAIMS IN CONNECTION WITH (i) COMMERCIAL PRODUCTS, SERVICES,
+    OR SOFTWARE; (ii) RESEARCH THAT EITHER IS COMMERCIAL IN NATURE
+    OR CONDUCTED TO SUPPORT BACK-END COMMERCIAL OPERATIONS, OR WILL
+    TRIGGER OBLIGATIONS TO PROVIDE DELIVERABLES TO FOR-PROFIT
+    ENTITIES THAT HAVE SUPPORTED THE RESEARCH; OR (iii) SOFTWARE
+    LICENSED FROM ANOTHER PARTY UNDER A LICENSE COMMONLY REFERRED TO
+    AS AN OPEN SOURCE, FREE SOFTWARE, COPYLEFT, OR COMMUNITY SOURCE
+    CODE LICENSE. tHIS lICENSE SHALL AUTOMATICALLY TERMINATE IN THE
+    EVENT THAT YOU PRACTICE THE LICENSED PATENT CLAIMS IN CONNECTION
+    WITH ANY ITEMS DETAILED ABOVE IN 3(i)-(iii). ADDITIONALLY,
+    IF YOU INSTITUTE PATENT OR COPYRIGHT LITIGATION AGAINST ANY
+    ENTITY (INCLUDING A CROSS-CLAIM OR COUNTERCLAIM IN A LAWSUIT)
+    ALLEGING THAT THE WORK OR A CONTRIBUTION INCORPORATED WITHIN
+    THE WORK CONSTITUTES DIRECT OR CONTRIBUTORY PATENT OR COPYRIGHT
+    INFRINGEMENT, THEN THE PATENT AND COPYRIGHT LICENSES GRANTED
+    TO YOU UNDER THIS lICENSE FOR THAT WORK SHALL TERMINATE AS OF
+    THE DATE SUCH LITIGATION IS FILED.
 
  4. Redistribution. You may reproduce and distribute copies of the
     Work or Derivative Works thereof in any medium, with or without
