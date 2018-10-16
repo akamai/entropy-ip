@@ -2,7 +2,7 @@
 
 This code implements the Entropy/IP algorithm, as published in:
 
-    P. Foremski, D. Plonka, A. Berger, "Entropy/IP: Uncovering Structure in IPv6 Addresses", Proceedings of the 2016 Internet Measurement Conference. ACM, 2016.
+> P. Foremski, D. Plonka, A. Berger, *Entropy/IP: Uncovering Structure in IPv6 Addresses*, Proceedings of the 2016 Internet Measurement Conference. ACM, 2016.
 
 You can read the paper as PDF at [Akamai website](https://www.akamai.com/us/en/multimedia/documents/technical-publication/entropy-ip-uncovering-structure-in-ipv6-addresses.pdf). See [www.entropy-ip.com](http://entropy-ip.com/) for more details.
 
@@ -12,7 +12,7 @@ This repository supports Akamai's Custom Analytics project.
 
 Entropy/IP is patent pending, submitted as [application number 15618303](https://patents.google.com/patent/US20170359227A1/en) by Akamai Technologies, Inc. Akamai releases this implementation of Entropy/IP as open source, but only for *non-commercial, academic research purposes*.
 
-Please read [the LICENSE file](./blob/master/LICENSE) carefully.
+Please read [the LICENSE file](./LICENSE) carefully.
 
 # Quick Start
 
@@ -43,4 +43,4 @@ Also, the code does not directly handle datasets larger than 100K IPs. Whenever 
 
 # Author
 
-Pawel Foremski, 2016, pjf@foremski.pl
+Pawel Foremski, 2016, pjf@foremski.pl, [@pforemski](https://twitter.com/pforemski).
