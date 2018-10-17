@@ -1,11 +1,12 @@
 #!/usr/bin/env python
 #
 # This code implements the IPv6 encoding in Entropy/IP
+# Mind the different terminology vs. the paper.
+# Runs in python2.
 #
 # Copyright (c) 2015-2016 Akamai Technologies, Inc.
-# Author: Pawel Foremski <pjf@akamai.com>
-# Mind the different terminology vs. the paper; excuse the code quality.
-# Runs in python2.
+# See file "LICENSE" for licensing information.
+# Author: Pawel Foremski
 #
 
 import sys

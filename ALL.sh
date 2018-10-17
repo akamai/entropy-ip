@@ -1,4 +1,11 @@
 #!/bin/bash
+#
+# This code runs all parts of Entropy/IP in one shot.
+#
+# Copyright (c) 2015-2016 Akamai Technologies, Inc.
+# See file "LICENSE" for licensing information.
+# Author: Pawel Foremski
+#
 
 function ips()
 {
@@ -12,10 +19,14 @@ function ips()
 if [ $# -ne 2 ]; then
 	echo "usage: ALL.sh ips target"
 	echo
-	echo "Entropy/IP: do all steps to prepare a web report on set of IPv6 addrs"
+	echo "Entropy/IP: do all steps and prepare a web report on IPv6 addrs"
 	echo
 	echo "  ips         IPv6 addresses in hex ip format"
 	echo "  target      target directory for the report"
+	echo
+	echo "Copyright (c) 2015-2016 Akamai Technologies, Inc."
+	echo "See file LICENSE for licensing information."
+	echo "Author: Pawel Foremski"
 	exit 1
 fi >&2
 

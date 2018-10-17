@@ -3,8 +3,8 @@
 # This code rewrites encoded IPs into the BNFinder input format
 #
 # Copyright (c) 2015-2016 Akamai Technologies, Inc.
-# Author: Pawel Foremski <pjf@akamai.com>
-# Mind the different terminology vs. the paper; excuse the code quality.
+# See file "LICENSE" for licensing information.
+# Author: Pawel Foremski
 #
 
 if { [ -z "$1" ] || [ "$1" = "-h" ] || [ "$1" = "--help" ]; }; then

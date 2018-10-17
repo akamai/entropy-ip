@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+# Copyright (c) 2015-2016 Akamai Technologies, Inc.
+# See file "LICENSE" for licensing information.
+# Author: Pawel Foremski
 
 from matplotlib import cm
 import numpy as np
@@ -9,7 +12,8 @@ def minmax(Min, Max, Val): return max(Min, min(Max, Val))
 txtmap = [1.0, 1.0, 1.0, 1.0, 1.0, 0.95, 0.9, 0.4, 0.2, 0.1, 0.0, 0.0, 0.0, 0.0]
 
 print ".bnb-color-0 { background-color: white; color: #ccc; }"
-for i,color in enumerate(cm.jet(np.linspace(0,1,100))):
+jet = cm.get_cmap("jet")
+for i,color in enumerate(jet(np.linspace(0,1,100))):
 	r,g,b,a = color
 
 	background = "#%02x%02x%02x" % (r*255, g*255, b*255)

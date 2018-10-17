@@ -1,10 +1,11 @@
 #!/usr/bin/env python
 #
 # Entropy/IP: draw Entropy vs ACR plot
+# Runs in python2. Requires matplotlib
 #
 # Copyright (c) 2015-2016 Akamai Technologies, Inc.
-# Author: Pawel Foremski <pjf@akamai.com>
-# Runs in python2. Requires matplotlib
+# See file "LICENSE" for licensing information.
+# Author: Pawel Foremski
 #
 
 import sys

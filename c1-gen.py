@@ -5,10 +5,12 @@
 # Note that this code is probably not the fastest possible. For larger tasks it might
 # be reasonable to optimize it first, or use a different Bayes Net technique.
 #
-# Copyright (c) 2015-2016 Akamai Technologies, Inc.
-# Author: Pawel Foremski <pjf@akamai.com>
-# Mind the different terminology vs. the paper; excuse the code quality.
+# Mind the different terminology vs. the paper.
 # Runs in python2. Requires toposort (https://pypi.python.org/pypi/toposort)
+#
+# Copyright (c) 2015-2016 Akamai Technologies, Inc.
+# See file "LICENSE" for licensing information.
+# Author: Pawel Foremski
 #
 
 import sys

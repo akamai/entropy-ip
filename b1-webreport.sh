@@ -3,7 +3,8 @@
 # Generates web report for an Entropy/IP model
 #
 # Copyright (c) 2015-2016 Akamai Technologies, Inc.
-# Author: Pawel Foremski <pjf@akamai.com>
+# See file "LICENSE" for licensing information.
+# Author: Pawel Foremski
 #
 
 if [ $# -ne 4 ]; then
@@ -15,6 +16,10 @@ if [ $# -ne 4 ]; then
 	echo "  segments    output of a1-segments.py"
 	echo "  analysis    output of a2-mining.py"
 	echo "  cpd         output of a4-bayes.sh"
+	echo
+	echo "Copyright (c) 2015-2016 Akamai Technologies, Inc."
+	echo "See file LICENSE for licensing information."
+	echo "Author: Pawel Foremski"
 	exit 1
 fi >&2
 
@@ -99,7 +104,6 @@ cat <<-EOF
 <script type="text/javascript" src="vals.js"></script>
 <script type="text/javascript" src="cpd.js"></script>
 <script type="text/javascript" src="../js/jquery-2.2.0.min.js"></script>
-<script type="text/javascript" src="../js/dump.js"></script>
 <script type="text/javascript" src="../js/json2.js"></script>
 <script type="text/javascript" src="../js/vis.min.js"></script>
 <script type="text/javascript" src="../js/bnbrowser.js"></script>

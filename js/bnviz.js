@@ -1,6 +1,10 @@
-/** BN structure visualization in vis.js
- * Copyright (C) Akamai Technologies 2016
- * Author: Pawel Foremski <pjf@foremski.pl> */
+/*
+ * BN structure visualization in vis.js
+ *
+ * Copyright (c) 2015-2016 Akamai Technologies, Inc.
+ * See file "LICENSE" for licensing information.
+ * Author: Pawel Foremski
+ */
 
 R.bnviz = {
 	net: undefined,

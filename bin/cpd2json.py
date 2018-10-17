@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # Copyright (c) 2015-2016 Akamai Technologies, Inc.
-# Author: Pawel Foremski <pjf@akamai.com>
+# See file "LICENSE" for licensing information.
+# Author: Pawel Foremski
 
 import sys
 import argparse
