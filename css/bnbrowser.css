@@ -1,0 +1,37 @@
+/*
+ * Copyright (c) 2015-2016 Akamai Technologies, Inc.
+ * See file "LICENSE" for licensing information.
+ * Author: Pawel Foremski
+ */
+
+.bnb-main, .bnb-status { width: 95%; }
+
+.bnb-vars td {
+	padding: 0 0 0 5px;
+	text-align: center; font-weight: bolder; font-size: 18px;
+	border: 2px solid white;
+}
+.bnb-vdsc td, div.bnb-status {
+	padding: 0 3px 5px 3px;
+	text-align: center; color: #666; font-style: italic; vertical-align: top;
+}
+
+.bnb-vals div {
+	margin: 0 3px 0 3px; padding: 3px; border: 2px solid white;
+	text-align: center; font-weight: bold; font-family: courier; font-size: 14px;
+	cursor: pointer;
+}
+#bnb-val-colormap, #bnb-clear { padding-left: 50px; }
+#bnb-val-colormap div { margin: 0; padding: 4px; border: 0; }
+
+div.bnb-selected, td.bnb-selected { border-color: red; }
+div.bnb-status { margin-top: 20px; }
+div.bnb-status:hover { cursor: pointer; }
+
+.bnb-range { font-style: italic; }
+
+#bnb-clear { color: red; }
+#bnb-clear:hover { cursor: pointer; }
+
+.bnb-ips { text-align: center; width: 95%; height: 400px; margin: 15px; }
+#bnviz { width: 100%; height: 400px; }
